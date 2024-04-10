@@ -1,0 +1,27 @@
+{
+	"id": "350b0fef-ea91-4deb-84ed-c6af18411878",
+	"values": [
+		{
+			"key": "fullName",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "errorCodes",
+			"value": "",
+			"type": "any",
+			"enabled": false
+		},
+		{
+			"key": "errorCode",
+			"value": "[\"masters.country.not.supported\",\"http.bad.request\",\"http.internal.server.error\",\"http.gateway.timeout\",\"http.bad.gateway\",\"http.resource.not.found\",\"config.not.found\",\"masters.language.not.supported\",\"auth.unauthorized\",\"auth.otp.invalid\",\"auth.pin.invalid\",\n\"auth.forget.pin.reference.id.invalid\",\"auth.pin.question.keys.invalid\",\"auth.pin.answers.invalid\",\"error.auth.pin.reset.session.timeout\",\"auth.pin.step.not.required\",\"auth.profile.user.id.invalid\",\n\"auth.profile.user.not.found\",\"auth.profile.not.verified\",\"auth.profile.pin.already.set\",\"auth.profile.user.already.exist\",\"auth.profile.pin.not.set\",\"auth.profile.mobile.not.updated\",\n\"error.auth.token.missing\",\"error.auth.user.not.found\",\"error.auth.token.decode\",\"error.auth.token.expired\",\"error.auth.token.forget.pin.token.invalid\",\"error.auth.token.logout\",\n\"error.auth.token.tenant.missing\",\"error.auth.token.tenant.id.missing\",\"auth.social.google.code.invalid\",\"error.auth.token.invalid\",\"order.fund.transfer.invalid.payer.customer.id\",\n\"auth.social.facebook.code.invalid\",\"auth.social.user.existed\",\"auth.social.email.notfound\",\"auth.social.country.code.invalid\",\"auth.jwt.token.generation\",\"auth.jwt.token.decode\",\n\"auth.jwt.reset.pin.invalid\",\"error.payments.transactions.not.found\",\"order.payment.utility.payment\",\"order.fund.transfer.invalid.instrument.id\",\"order.fund.transfer.invalid.beneficiary.customer.id\",\n\"order.fund.transfer.payer.invalid.instrument.id\",\"order.fund.transfer.beneficiary.invalid.instrument.id\",\"order.fund.transfer.beneficiary.mismatch.info\",\"payment.account.lookup\",\"error.http.bad.request\",\"split.bill.cannot.be.cancelled\",\"payment.cannot.be.declined\",\"default.instrument.exist\",\"device.not.found\",\"invalid.device.id\",\"customer.wrong.pin.error\",\"customer.pin.policy.error\",\"customer.mobile.number.error\"]",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2024-04-10T06:30:48.917Z",
+	"_postman_exported_using": "Postman/10.24.18"
+}
